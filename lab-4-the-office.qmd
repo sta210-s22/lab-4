@@ -94,3 +94,7 @@ theoffice <- theoffice %>%
 ### Exercise 13
 
 ...
+
+### Exercise 14
+
+...
